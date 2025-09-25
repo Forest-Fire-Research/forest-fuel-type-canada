@@ -3,6 +3,8 @@
 
 This repository contains code associated with the paper titled "[Analytical Visualization of Geographical Data for Post-Wildfire Growth of Fuel Types in Canada](#)" presented in [TBD](#) at TBD in [TBD](#), TBD, TBD.
 
+A interactive visual version of the anaysis is available [here](https://forest-fuel-type-heuristic.onrender.com)
+
 ![](assets/figures/fuel_type-teaser.png)
 
 
